@@ -9,7 +9,7 @@ body{
 img{
     margin:-5px;
     width:56%;
-    padding-left: 130px;
+    padding-left: 150px;
 
 }
 .items{
@@ -19,6 +19,6 @@ p{
     color: white;
     width:410px;
     float:right;
-    padding-right:130px;
+    padding-right:150px;
 font-family: Arial, Helvetica, sans-serif;
 }
