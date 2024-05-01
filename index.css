@@ -9,7 +9,7 @@ body{
 img{
     margin:-5px;
     width:56%;
-    padding-left: 140px;
+    padding-left: 160px;
 
 }
 .items{
@@ -20,6 +20,7 @@ p{
     color: white;
     width:410px;
     float:right;
-    padding-right:140px;
+    padding-right:160px;
+    padding-top:10px;
 font-family: Arial, Helvetica, sans-serif;
 }
